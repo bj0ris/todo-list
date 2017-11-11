@@ -1,0 +1,19 @@
+My ideas for todo-list:
+
+Features:
+    *You can input a string
+    *String is displayed as a "ToDo"
+    *The ToDo can be deleted/greyed out
+    *OPTIONAL: Calendar-view, you can push a button, see a calendar and select "active" day
+    *OPTIONAL: You can make separate Todo-lists for every day of the Month
+
+Either:
+A mobile-first, single page, web application.
+    This will probably require some back-end and AJAX though. It will make the
+    optional features easier/possible.
+    So maybe not as our first project?
+
+Or:
+Single page web site.
+    Using just HTML,CSS, and plain JavaScript make a site. This will probably
+    make the optional features impossible/hard.
