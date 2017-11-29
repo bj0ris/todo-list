@@ -13,9 +13,9 @@ A mobile-first single page app for this first version. Users can input string va
 
 To Do list fields are "locked" until user fills certain fields in a certain order.
 
-*Bjorn: Here I hit the first snag. I think developing a web app is rarely a step-by-step process. You often have to go back and forth between stages. Like us now thinking we were done with the outline stage, but ending up going back to it.
+*Bjorn: Here I hit the first snag. I think developing a web app is rarely a step-by-step process. You often have to go back and forth between stages. Like us now thinking we were done with the outline stage, but ending up going back to it.*
 
-And also changing one thing in one part of the project might necessitate change in other parts of the project. I think it is important to take that into account when developing this tool.*
+*And also changing one thing in one part of the project might necessitate change in other parts of the project. I think it is important to take that into account when developing this tool.*
 
 ## App Flow
 
@@ -48,9 +48,11 @@ User types in backend language to use, can also fill in notes.
 ##### Database
 Types in database to use with backend, and notes.
 
-*Bjorn: The app flow items are a good representation of our particular project, but I don't think they are universal. If for example I want to work on a small project by myself, I may not need to write out the idea and make a wireframe. I chose therefore not to include these specific items in my outline.
-But the basic idea is really good. That is breaking a large task (the whole project) into smaller  tasks( Idea,Outline,Design,Languages), and then breaking them into even smaller tasks where appropriate (Languages into HTML,CSS,Javascript).
-This is the point where I had my aha moment. The essence of programming is taking a task and breaking it into smaller tasks. If we can represent this process visually I think we will have a really good tool for developing a web app (and probably other software projects). If we visualize it successfully I believe what you would end up with is a kind of map of the whole project. With this map you would easily be able to spot what you need to work on to complete the project. I think a good way to visualize this is with the lists-within-lists approach I described under App design in bjorn_outline.md*
+*Bjorn: The app flow items are a good representation of our particular project, but I don't think they are universal. If for example I want to work on a small project by myself, I may not need to write out the idea and make a wireframe. I chose therefore not to include these specific items in my outline.*
+*But the basic idea is really good. That is breaking a large task (the whole project) into smaller  tasks( Idea,Outline,Design,Languages), and then breaking them into even smaller tasks where appropriate (Languages into HTML,CSS,Javascript).*
+*This is the point where I had my aha moment. The essence of programming is taking a task and breaking it into smaller tasks. If we can represent this process visually I think we will have a really good tool for developing a web app (and probably other software projects). If we visualize it successfully I believe what you would end up with is a kind of map of the whole project. With this map you would easily be able to spot what you need to work on to complete the project. I think a good way to visualize this is with the lists-within-lists approach I described under App design in bjorn_outline.md*
+
+
 ---
 
 **At least one of the above fields must be filled in to move onto the next step. If Backend is filled, Database must also be filled to move forward.**
