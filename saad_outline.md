@@ -21,6 +21,9 @@ To Do list fields are "locked" until user fills certain fields in a certain orde
 
 *And also changing one thing in one part of the project might necessitate change in other parts of the project. I think it is important to take that into account when developing this tool.*
 
+**Saad**:  
+*So allow the user to change the items as necessary?*
+
 ---
 
 ## App Flow
@@ -61,6 +64,9 @@ Types in database to use with backend, and notes.
 
 *This is the point where I had my aha moment. The essence of programming is taking a task and breaking it into smaller tasks. If we can represent this process visually I think we will have a really good tool for developing a web app (and probably other software projects). If we visualize it successfully I believe what you would end up with is a kind of map of the whole project. With this map you would easily be able to spot what you need to work on to complete the project. I think a good way to visualize this is with the lists-within-lists approach I described under App design in bjorn_outline.md*
 
+**Saad**:  
+*I see where you're going with this. Is what you're looking for in the app flow is more general lists/tasks instead?*
+
 ---
 
 ### Frameworks
@@ -78,5 +84,8 @@ Fill in if applicable, can also remain empty.
 *1)Make changes in other parts of the project from anywhere ("Make changes" in practice means adding new tasks or sublists) or*
 
 *2)Use some form of messaging within the project as describen in bjorn_outline.md under Future Feature.*
+
+**Saad**:  
+*I'll see what I can do with the new workflow.*
 
 ---
