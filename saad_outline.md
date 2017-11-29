@@ -12,6 +12,18 @@ A mobile-first single page app for this first version. Users can input string va
 
 To Do list fields are "locked" until user fills certain fields in a certain order.
 
+<<<<<<< Updated upstream
+=======
+---
+*Bjorn: Here I hit the first snag. I think developing a web app is rarely a step-by-step process. You often have to go back and forth between stages. Like us now thinking we were done with the outline stage, but ending up going back to it.*
+
+*And also changing one thing in one part of the project might necessitate change in other parts of the project. I think it is important to take that into account when developing this tool.*
+
+**Saad**: *So are you saying that the list fields should be changeable instead of locked in?*
+
+---
+
+>>>>>>> Stashed changes
 ## App Flow
 
 ### Idea
@@ -46,10 +58,30 @@ Types in database to use with backend, and notes.
 
 **At least one of the above fields must be filled in to move onto the next step. If Backend is filled, Database must also be filled to move forward.**
 
+**Saad**: *I think what you're saying here is I was too specific in the app flow and it should be generalized more because not every project is the same?*
+
 ---
 
 ### Frameworks
 User fills in a framework, if applicable. Field can remain empty.
 
 ### CSS Preprocessors
+<<<<<<< Updated upstream
 Fill in if applicable, can also remain empty.
+=======
+Fill in if applicable, can also remain empty.
+
+---
+
+*Bjorn: Other/new ideas:*
+
+*As I wrote above under "App design". "Changing one thing in one part of the project might necessitate change in other parts of the project." This means that we need to have a fairly easy way to either*
+
+*1)Make changes in other parts of the project from anywhere ("Make changes" in practice means adding new tasks or sublists) or*
+
+*2)Use some form of messaging within the project as describen in bjorn_outline.md under Future Feature.*
+
+**Saad**: *Even with the comments you inserted, I still think we're on the same page. The outline just needs tweaking before we both agree on it.*
+
+---
+>>>>>>> Stashed changes
