@@ -5,7 +5,10 @@
 A laid back project management app. Has no estimated times or deadlines, it just shows what the next task is.
 
 ## App Design
-A mobile-first single page app for this first version. Users can create and share projects. These projects are basically a set of lists-within lists of tasks that the users can create and modify as they please. The point of this is that an individual or group of people can easily determine what task needs to be done next to keep the project moving forward. By splitting larger tasks into smaller more manageable chunks will make a large project seem easier and less daunting, and provide motivation by finishing small tasks. Tasks can be completed by clicking on them, and lists can be completed by finishing all tasks (and sublists) within it.
+A mobile-first single page app for this first version. Users can create and share projects. These projects are basically a set of lists-within lists of tasks that the users can create and modify as they please. The point of this is that an individual or group of people can easily determine what task needs to be done next to keep the project moving forward. By splitting larger tasks into smaller more manageable chunks will make a large project seem easier and less daunting, and provide motivation by finishing small tasks.
+
+There are only two types of data the user can create: List and tasks.
+Tasks can be completed by clicking on them, and lists can ONLY be completed by finishing all tasks (and sublists) within it.
 
 
 ## Example of use
