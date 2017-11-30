@@ -28,6 +28,9 @@ A user creates a Project and gives it a name(for example "front end web-app"). T
 **Saad**:  
 *I see where you're going with this. Instead of having locked-in categories, give the user the option to change list items. One idea I have, if it's even possible for us to implement, is to create a* **Master User** *who's the only one who can modify the* **Main List** *although this will most likely require a backend and a database, so it might not be a 1.0 feature.*
 
+**Bjorn**:  
+*I think we can implement a master user, and maybe even varying access (like add collaborators on github). Allthough probably not in v.1.0. We probably want to focus on making the basic app first, but it is definitely somehing we'll implement eventually. Regarding backend and database. I think we already require a simple backend and we can "fake" a database with a JSON file. This isn't that much of a hassle though and will probably make implementing a database easier later on.*
+
 ---
 
 ## Future feature
@@ -39,5 +42,8 @@ There is one more feature though that I think is important, but it hasn't fully 
 
 **Saad**:  
 *Perhaps the idea about the Master User can be put as a future feature.*
+
+**Bjorn**:  
+*I realize now that calling this topic "Future feature" was a bad choice of words to use. The feature I mentioned, or something like it, is something we need in v.1.0. I mention why in Saad_outline.md in a recent response to you. And yes Master User is definitely something we will need in future.*
 
 ---
