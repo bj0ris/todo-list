@@ -9,6 +9,9 @@ A To Do List that helps developers build a web app from start to finish. They go
 ---
 *Bjorn: I really liked the overall idea here, a tool to guide you through building a web app. I have found myself kind of stuck on projects before. Where I knew I had a lot to do, but unsure what specifically to do next. This is definitely something I could use in those cases.*
 
+**Saad**:  
+*I tried to simulate this between multiple users in my app flow chart*
+
 ---
 
 ## App Design
@@ -26,6 +29,9 @@ To Do list fields are "locked" until user fills certain fields in a certain orde
 
 **Bjorn**:  
 *If you're refering to my second paragraph, then yes that is a must. However I don't think it will be enough. I picture our app beeing used on your phone while using a computer to code. If you find yourself "in the zone" while coding, you want as few distractions as possible. And I fear no matter how good our UI is, traversing the lists and sublists might take too long. We therefore need a quick alternative*
+
+**Saad**:  
+*Maybe instead of everyone just changing things on the list, it will be only a few people, and the users have read-only privileges will get alerts about changes?*
 
 ---
 
