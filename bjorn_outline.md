@@ -31,6 +31,9 @@ A user creates a Project and gives it a name(for example "front end web-app"). T
 **Bjorn**:  
 *I think we can implement a master user, and maybe even varying access (like add collaborators on github). Allthough probably not in v.1.0. We probably want to focus on making the basic app first, but it is definitely somehing we'll implement eventually. Regarding backend and database. I think we already require a simple backend and we can "fake" a database with a JSON file. This isn't that much of a hassle though and will probably make implementing a database easier later on.*
 
+**Saad**:  
+*I don't know if you got the chance to look at my app flow chart yet, but where I'm going with this is kind of a cloud-based to do list. If we can make it cloud-based, I don't think we'll need to worry as much about creating master users for lists.*
+
 ---
 
 ## Future feature
@@ -45,5 +48,8 @@ There is one more feature though that I think is important, but it hasn't fully 
 
 **Bjorn**:  
 *I realize now that calling this topic "Future feature" was a bad choice of words to use. The feature I mentioned, or something like it, is something we need in v.1.0. I mention why in Saad_outline.md in a recent response to you. And yes Master User is definitely something we will need in future.*
+
+**Saad**:  
+*Whatever we call this section, Future feature or otherwise, isn't so important. We should definitely add ideas we have to it, or move ideas we currently can't do to this section. But I think one problem we'll both have is getting too caught up in what we want to do instead of what we can do. So definitely let's keep this here, but not make it as important.*
 
 ---
